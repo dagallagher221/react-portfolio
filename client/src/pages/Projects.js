@@ -2,11 +2,11 @@ import React, { Component } from "react";
 import Navbar from "../components/Navbar/Navbar";
 import Header from "../components/Header/Header";
 import ProjectCard from "../components/ProjectCard/ProjectCard"
-import Footer from "../components/Footer/Footer";
+
 import Wrapper from "../components/Wrapper/Wrapper";
 import API from "../utils/API";
 
-class Projects extends Component {
+class ProjectPage extends Component {
 
 state={
     projects: []
@@ -62,4 +62,4 @@ render() {
 }
 }
 
-export default Projects;
+export default ProjectPage;
