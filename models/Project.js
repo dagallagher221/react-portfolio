@@ -3,7 +3,7 @@ var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
 var Projects = new Schema({
-    name: {
+    title: {
         type: String,
         trim: true,
         required: true
