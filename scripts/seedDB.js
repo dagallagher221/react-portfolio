@@ -6,35 +6,35 @@ mongoose.connect(process.env.MONGODB_URI);
 
 const projectSeed = [
     {
-        name: "Train Scheduler",
+        title: "Train Scheduler",
         image: "https://live.staticflickr.com/65535/49479361788_df124e0c43_h.jpg",
         githubLink: "https://github.com/dagallagher221/Train-scheduler"
     },
     {
-        name: "Trivia Game",
+        title: "Trivia Game",
         image: "https://live.staticflickr.com/65535/49479805026_ed04272b11_h.jpg",
         githubLink: "https://github.com/dagallagher221/TriviaGame"
         
     },
     {
-        name: "GifTastic",
+        title: "GifTastic",
         image: "https://live.staticflickr.com/65535/49479833111_bd25efc1d3_b.jpg",
         githubLink: "https://github.com/dagallagher221/GifTastic"
        
     },
     {
-        name: "In The Loop",
+        title: "In The Loop",
         image: "https://live.staticflickr.com/65535/49479324023_76ff17a3d8_b.jpg",
         githubLink: "https://github.com/dagallagher221/Project-1-Group-4"
     },
     {
-        name: "Psychic Game",
+        title: "Psychic Game",
         image: "https://live.staticflickr.com/65535/49480024872_30930215e2_b.jpg", 
         githubLink: "https://github.com/dagallagher221/Psychic-Game" 
        
     },
     {
-        name: "Crystal Collector",
+        title: "Crystal Collector",
         image: "https://live.staticflickr.com/65535/49479323968_cc1a0af638_b.jpg",
         githubLink: "https://github.com/dagallagher221/unit-4-game"
 
