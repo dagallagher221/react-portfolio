@@ -3,16 +3,16 @@ var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
 var Projects = new Schema({
-    name= {
+    name: {
         type: String,
         trim: true,
         required: true
     },
-    image={
+    image: {
         type: String,
         required: true
     },
-    githubLink={
+    githubLink: {
         type: String,
         required: true
     }
