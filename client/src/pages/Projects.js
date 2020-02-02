@@ -8,7 +8,7 @@ import API from "../Utils/API";
 class Admin extends Component {
 
 state={
-    projects=[]
+    projects: []
 }
 
 componentDidMount() {
