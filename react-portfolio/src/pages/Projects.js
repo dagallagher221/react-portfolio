@@ -43,6 +43,7 @@ render() {
                             key={project.id}
                             name={project.name}
                             image={project.image}
+                            githubLink={project.githubLink}
                             />
                     ))}
                 </div>
