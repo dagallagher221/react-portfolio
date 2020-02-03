@@ -9,7 +9,7 @@ class About extends Component {
         return (
             <div className="App">
                 <Navbar />
-                <Header><p>About Us</p></Header>
+                <Header><p>About Dan</p></Header>
                 <div className="row">
                     <div className="col-md-12">
                         <div className="card mb-3 w-75 about-info">
