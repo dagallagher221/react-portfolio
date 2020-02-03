@@ -33,7 +33,7 @@ app.use((req, res, next) => {
 
 // Serve up static assets (usually on heroku)
 if (process.env.NODE_ENV === "production") {
-  app.use(express.static("client/build"));
+  app.use(express.static("react-portfolio/build"));
 }
 
 // If deployed, use the deployed database. Otherwise use the local mongoSoap Database
@@ -43,13 +43,13 @@ mongoose.connect(MONGODB_URI, { useNewUrlParser: true });
 
 // Define API routes here
 app.use(routes);
-app.use("/users", require("./routes/api/users"));
+
 
 // Send every other request to the React app
 // Define any API routes before this runs
 
 app.get("*", (req, res) => {
-  res.sendFile(path.join(__dirname, "./client/build/index.html"));
+  res.sendFile(path.join(__dirname, "./react-portfolio/build/index.html"));
 });
 
 app.listen(PORT, () => {
