@@ -42,7 +42,7 @@ render() {
                         <ProjectCard
                             id={project._id}
                             key={project.id}
-                            name={project.name}
+                            title={project.title}
                             image={project.image}
                             githubLink={project.githubLink}
                             />

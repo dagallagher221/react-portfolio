@@ -12,6 +12,10 @@ var Projects = new Schema({
         type: String,
         required: true
     },
+    description: {
+        type: String,
+        required: true
+    },
     githubLink: {
         type: String,
         required: true
