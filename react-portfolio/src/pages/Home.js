@@ -17,6 +17,9 @@ class App extends Component {
           Please use the links above to navigate and see all that I can bring to the table.  
            </p>
 
+           <h1>Dan Gallagher-Full Stack Developer Bio and Skills</h1>
+      
+
 
       
       

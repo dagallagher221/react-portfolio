@@ -43,6 +43,7 @@ render() {
                             id={project._id}
                             key={project.id}
                             title={project.title}
+                            description={project.description}
                             image={project.image}
                             githubLink={project.githubLink}
                             />
