@@ -14,15 +14,15 @@ class About extends Component {
                     <div className="col-md-12">
                         <div className="card mb-3 w-75 about-info">
                             <div class="card-header">
-                                A little about me
+                               Who is Dan Gallagher?
                             </div>
                             <div class="card-body">
-                                <h4 class="card-title">How we got started..</h4>
-                                <p class="card-text">Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris. Hi mindless mortuis soulless creaturas, imo evil stalking monstra adventus resi dentevil vultus comedat cerebella viventium. Qui animated corpse, cricket bat max brucks terribilem incessu zomby. The voodoo sacerdos flesh eater, suscitat mortuos comedere carnem virus. Zonbi tattered for solum oculi eorum defunctis go lum cerebro. Nescio brains an Undead zombies. Sicut malus putrid voodoo horror. Nigh tofth eliv ingdead.</p>
+                                <h4 class="card-title"></h4>
+                                <p class="card-text">I began my Web Development journey in August 2019, having had a lifelong passion for computers and technology.  The Georgia Institue of Technology Full Stack Bootcamp was where my education took place, in a intensive six month program to learn the basics of Web Development.  In the class, I learned in demand skills such as HTML5, CSS, JavaScript, jQuery, Node.js, MySQL, MongoDB, React.js, Express.js, and several other languages.  For a full listing, please see my resume.</p>
 
-                                <p class="card-text">Cum horribilem walking dead resurgere de crazed sepulcris creaturis, zombie sicut de grave feeding iride et serpens. Pestilentia, shaun ofthe dead scythe animated corpses ipsa screams. Pestilentia est plague haec decaying ambulabat mortuos. Sicut zeder apathetic malus voodoo. Aenean a dolor plan et terror soulless vulnerum contagium accedunt, mortui iam vivam unlife. Qui tardius moveri, brid eof reanimator sed in magna copia sint terribiles undeath legionis. Alii missing oculis aliorum sicut serpere crabs nostram. Putridi braindead odores kill and infect, aere implent left four dead.</p>
+                                <p class="card-text">Learning to code was a challenge, but ultimately an extremely satisfying experience.  There is nothing more gratifying than identifying the bug preventing your product from successfully deploying, or being able to help those around you with their issues.  The Bootcamp gave me a great opportunity to work with other upcoming developers in a team based environment, and only furthered my passion for coding.</p>
 
-                                <p class="card-text">Lucio fulci tremor est dark vivos magna. Expansis creepy arm yof darkness ulnis witchcraft missing carnem armis Kirkman Moore and Adlard caeruleum in locis. Romero morbo Congress amarus in auras. Nihil horum sagittis tincidunt, zombie slack-jawed gelida survival portenta. The unleashed virus est, et iam zombie mortui ambulabunt super terram. Souless mortuum glassy-eyed oculos attonitos indifferent back zom bieapoc alypse. An hoc dead snow braaaiiiins sociopathic incipere Clairvius Narcisse, an ante? Is bello mundi z?</p>
+                                <p class="card-text">In my spare time, I enjoy working on creative projects with friends in the developer world, as well as gaming and computer building/maintenance.  I have lived in the Atlanta area most of my life, and enjoy spending time around the city.</p>
                             </div>
                         </div>
                     </div>
