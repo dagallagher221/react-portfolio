@@ -13,12 +13,14 @@ class App extends Component {
         <Header><p>Welcome to my Portfolio</p></Header>
      
 
-        <p className="App-intro">
-          Please use the links above to navigate and see all that I can bring to the table.  
-           </p>
+       <h1 className="appIntro">Dan Gallagher-Full Stack Developer Bio and Skills</h1>
 
-           <h1>Dan Gallagher-Full Stack Developer Bio and Skills</h1>
-      
+       <p>Proficiencies in several languages, such as: HTML5, CSS, JavaScript, jQuery, Bootstrap, React.js, Node.js, MySQL, MongoDB, and many more!</p>
+       <p>For a full listing, please feel free to check out my Resume, link located on the "Contact" Page</p>
+
+       <p>This site was built from scratch in React.js, with elements loaded from a MongoDB Database.</p>
+           
+
 
 
       
